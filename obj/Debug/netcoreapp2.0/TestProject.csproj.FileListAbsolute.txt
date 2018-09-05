@@ -9,3 +9,14 @@ C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.Assem
 C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
 C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.dll
 C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.pdb
+C:\Workspaces\Git\CSharpStudy\bin\Debug\netcoreapp2.0\TestProject.deps.json
+C:\Workspaces\Git\CSharpStudy\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.json
+C:\Workspaces\Git\CSharpStudy\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
+C:\Workspaces\Git\CSharpStudy\bin\Debug\netcoreapp2.0\TestProject.dll
+C:\Workspaces\Git\CSharpStudy\bin\Debug\netcoreapp2.0\TestProject.pdb
+C:\Workspaces\Git\CSharpStudy\obj\Debug\netcoreapp2.0\TestProject.csprojResolveAssemblyReference.cache
+C:\Workspaces\Git\CSharpStudy\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Workspaces\Git\CSharpStudy\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
+C:\Workspaces\Git\CSharpStudy\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
+C:\Workspaces\Git\CSharpStudy\obj\Debug\netcoreapp2.0\TestProject.dll
+C:\Workspaces\Git\CSharpStudy\obj\Debug\netcoreapp2.0\TestProject.pdb
