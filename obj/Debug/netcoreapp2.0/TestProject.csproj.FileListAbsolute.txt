@@ -1,0 +1,11 @@
+C:\Users\raguilera\Desktop\TestProject\bin\Debug\netcoreapp2.0\TestProject.deps.json
+C:\Users\raguilera\Desktop\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.json
+C:\Users\raguilera\Desktop\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
+C:\Users\raguilera\Desktop\TestProject\bin\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\raguilera\Desktop\TestProject\bin\Debug\netcoreapp2.0\TestProject.pdb
+C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
+C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\raguilera\Desktop\TestProject\obj\Debug\netcoreapp2.0\TestProject.pdb
