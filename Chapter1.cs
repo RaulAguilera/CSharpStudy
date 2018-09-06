@@ -2,6 +2,7 @@ using System;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Net.Http;
 
 
 namespace TestProject
@@ -149,5 +150,51 @@ namespace TestProject
                 tasks = temp.ToArray();
             }
         }
+
+
+        public static void ParallelForForEach()
+        {
+
+            Parallel.For(0, 10, i =>
+            {
+                Thread.Sleep(1000);
+            });
+
+            var numbers = Enumerable.Range(0, 10);
+
+            Parallel.ForEach(numbers, i =>
+            {
+                Thread.Sleep(1000);
+            });
+        }
+
+        public static void ParallelBreak()
+        {
+            ParallelLoopResult result = Parallel.For(0, 1000, (int i, ParallelLoopState loopState) =>
+            {
+                if (i == 500)
+                {
+                    Console.WriteLine("Breaking loop");
+                    loopState.Break();
+                }
+                return;
+            });
+
+        }
+
+        public static void AsyncAwait()
+        {
+            string result = DownloadContent().Result;
+        }
+
+        public static async Task<string> DownloadContent()
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                string result = await client.GetStringAsync("http://www.microsoft.com");
+                return result;
+            }
+        }
+
     }
 }
